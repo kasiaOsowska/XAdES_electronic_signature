@@ -1,5 +1,5 @@
 from PySide6.QtCore import QObject, Signal
-from PySide6.QtWidgets import QVBoxLayout, QLabel, QLineEdit, QPushButton, QTextEdit
+from PySide6.QtWidgets import QVBoxLayout, QLineEdit, QPushButton, QTextEdit
 from BaseWindow import BaseWindow
 from Scripts.ReadingPrivateKey import decrypt_key_async, decrypt_key
 
